@@ -1,6 +1,10 @@
 # ghostty-fonts.nvim
 
+[GhosttyFonts.webm](https://github.com/user-attachments/assets/7e9311fe-f76f-426c-953d-fc92b6c33214)
+
 Neovim module to preview and apply system fonts to Ghostty terminal.
+
+It is a work around to change fonts in Ghostty in a faster way.
 
 ## Features
 - Real-time font preview via Telescope.
